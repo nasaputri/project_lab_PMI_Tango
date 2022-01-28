@@ -59,9 +59,16 @@ Simple Exploratory Data Analysis done using Tableau with steps as follows:
 For the best experience: [Dashboard Link](https://public.tableau.com/app/profile/natassa.adi.putri/viz/WeCat/Wecat1_0?publish=yes)
 
 # Analysis
+* The features in this dashboard basically shows the reallocation based on the weight balance and expected to give the sense of priority to reallocate the items
+* Based on our assessment, Good Storage Practice is quite important in medical warehouse and will simplify the turnover process which also save time
+* Unfortunately we have no initial stock balance which can't be concluded if the warehouse is overcapacity or not.
+* This dashboard also simplify the auditing process which quite important since the warehouse is all about donation goods
 
 # Conclusion
+This dashboard expected to help PMI warehouse manager to monitored stock accuracy. Other than monitoring, we also expect this dashboard can help PMI to organize their emergency warehouse and increased stock accuracy upto 90%. The success metrics itself depends on the timeframe implementation from PMI and we expect within the 6 months, PMI may achieve the stock accuracy until 90%
 
-# Supporting Link
 
 # Reference
+* GOOD STORAGE AND DISTRIBUTION PRACTICES (May 2019) DRAFT FOR COMMENTS
+* MANUAL LOGISTIK PMI
+
