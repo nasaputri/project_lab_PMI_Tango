@@ -21,7 +21,10 @@ Below are the methods we use:
 ![Methods PLBI drawio](https://user-images.githubusercontent.com/95117954/151593551-d62b203b-982e-4535-bc0a-43c532eefe27.png)
 
 # Wrangling Data
-
+* After importing the data, we change numerical data that still read as string
+* Replace NA value to 0 specifically for numerical data on Berat Masuk and Berat Keluar
+* Pivoting the table of `Total Berat Masuk` and `Total Berat Keluar`
+* Add Berat di Pindah column as a function of `Total Berat Masuk - Total Berat Keluar`
 
 # Exploratory Data Analysis
 
