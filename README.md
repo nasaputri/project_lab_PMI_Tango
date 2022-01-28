@@ -56,7 +56,7 @@ Simple Exploratory Data Analysis done using Tableau with steps as follows:
 5.	Group Barang Item Monitor &#8594; gives a guideline of each Group Barang items. Easily filtered using dropdown filter
 ![image-5.png](attachment:image-5.png)
 
-For the best experience: [Dashboard Link] https://public.tableau.com/app/profile/natassa.adi.putri/viz/WeCat/Wecat1_0?publish=yes
+For the best experience: [Dashboard Link](https://public.tableau.com/app/profile/natassa.adi.putri/viz/WeCat/Wecat1_0?publish=yes)
 
 # Analysis
 
