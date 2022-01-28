@@ -42,19 +42,20 @@ Simple Exploratory Data Analysis done using Tableau with steps as follows:
 # Dashboard
 #### The Features and How to Use It
 1.	The Stock Accuracy as the success metrics indicator &#8594; the monitoring indicator to know the items that already placed in the right warehouse
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/95117954/151598051-47497bd9-5794-4313-8744-82991f824085.png)
+
 
 2.	Item Search and date filter &#8594; give user easiness to navigate through the data. User can directly search the Nama Barang, Group Barang, and Gudang Awal to make it easier to reallocate items in item search and move the date slider to search a certain date range.
-![image-2.png](attachment:image-2.png)
+![image](https://user-images.githubusercontent.com/95117954/151598081-123fc566-39c1-4e86-9642-b90528fe784b.png)
 
 3.	Reallocation by Warehouse Matrix &#8594; gives user the sense of priority to the goods which needed to be reallocate based on weight balance (balance in – balance out). Ideally user should reallocate the top-10 items first before jumping on the next item.
-![image-3.png](attachment:image-3.png)
+![image](https://user-images.githubusercontent.com/95117954/151598105-0d85d1f0-dbdb-459f-abb0-bee738615b5a.png)
  
 4.	Gudang Standard Mapping &#8594; gives a guideline for user to know the categorization of each warehouse. Can be customize according to PMI’s needs
-![image-4.png](attachment:image-4.png)
+![image](https://user-images.githubusercontent.com/95117954/151598133-dd1506fd-3137-4f58-b515-58fbc8ac1b62.png)
 
 5.	Group Barang Item Monitor &#8594; gives a guideline of each Group Barang items. Easily filtered using dropdown filter
-![image-5.png](attachment:image-5.png)
+![image](https://user-images.githubusercontent.com/95117954/151598166-0807eb9d-2d08-4020-bfc9-6a0fbbbf37f9.png)
 
 For the best experience: [Dashboard Link](https://public.tableau.com/app/profile/natassa.adi.putri/viz/WeCat/Wecat1_0?publish=yes)
 
