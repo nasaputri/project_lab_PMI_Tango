@@ -16,9 +16,11 @@ The Objectives of this BI Model are:
 * Enable user to give information about uncategorized item
 
 # Methods
-* As soon as we got the data, we
+Below are the methods we use:
+![Methods PLBI drawio](https://user-images.githubusercontent.com/95117954/151593551-d62b203b-982e-4535-bc0a-43c532eefe27.png)
 
 # Wrangling Data
+
 
 # Exploratory Data Analysis
 
