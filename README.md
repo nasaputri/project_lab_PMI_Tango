@@ -7,6 +7,8 @@
 * The dataset provided by Pacmann Team and PMI regarding PMI Emergency Warehouse data for COVID-19
 * The problem itself triggered as we get through the data and find some of the goods are scattered in the several warehouse and some of the F&B items are mixed up with chemicals 
 * Our team also done some wrangling the dataset in Python and done the EDA using Tableau which will be detailed below
+![gudang darurat PMI2](https://user-images.githubusercontent.com/95117954/151598561-16270739-fe49-43a0-9b02-c95667c1bc28.jpeg)
+
 
 # Objectives
 The Objectives of this BI Model are:
